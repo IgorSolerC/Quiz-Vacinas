@@ -1,5 +1,6 @@
 from regrasquiz import Questao
 
+
 def menuInicial():
     print("\n+---------------------------------------------------+\n" +
           "|                QUIZ SOBRE VACINAÇÃO               |" +
@@ -12,6 +13,7 @@ def menuInicial():
           "| correta responda: A, B, C, D ou E                 |\n" +
           "+---------------------------------------------------+", end="")
     input("\n\nAperte 'ENTER' para prosseguir.")
+
 
 menuInicial()
 
