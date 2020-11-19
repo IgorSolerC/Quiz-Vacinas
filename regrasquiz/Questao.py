@@ -40,7 +40,7 @@ def criaQuestao(valor, correta, pergunta, explicacaoA, explicacaoB="0", explicac
                     print(explicacaoD)
                 elif resposta == "E":
                     print(explicacaoE)
-                input("\n Aperte 'ENTER' para prosseguir.")
+                input("\nAperte 'ENTER' para prosseguir.")
             break
     respostasComputadas.append(resposta)
     numQuestao += 1
@@ -83,7 +83,7 @@ def mostraPontuacaoFinal():
             resultado = "(Erro)"
         print("Questão", str(i + 1) + ":", respostasComputadas[i], resultado)
     time.sleep(2)
-    print("\n Pontuação total:")
+    print("\nPontuação total:")
     print(totalPontos, "pontos!")
 
     if 0 <= totalPontos <= 10:
@@ -106,3 +106,4 @@ def mostraPontuacaoFinal():
 
     else:
         print(TextoQuestoes.PONTUACAO_MAXIMA)
+    input("\nAperte 'ENTER' para finalizar o programa.")
