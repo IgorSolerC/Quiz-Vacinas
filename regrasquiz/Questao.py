@@ -62,7 +62,7 @@ def explicaQuestoes():
     criaQuestao(TextoQuestoes.Q7_VALOR, TextoQuestoes.Q7_CORRETA,
                 TextoQuestoes.Q7_PERGUNTA, TextoQuestoes.Q7_EXPLICACAO_A,
                 TextoQuestoes.Q7_EXPLICACAO_B, TextoQuestoes.Q7_EXPLICACAO_C,
-                TextoQuestoes.Q7_EXPLICACAO_D,TextoQuestoes.Q7_EXPLICACAO_E)
+                TextoQuestoes.Q7_EXPLICACAO_D, TextoQuestoes.Q7_EXPLICACAO_E)
     criaQuestao(TextoQuestoes.Q8_VALOR, TextoQuestoes.Q8_CORRETA,
                 TextoQuestoes.Q8_PERGUNTA, TextoQuestoes.Q8_EXPLICACAO)
     criaQuestao(TextoQuestoes.Q9_VALOR, TextoQuestoes.Q9_CORRETA,
