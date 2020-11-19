@@ -1,12 +1,12 @@
 Q1_VALOR = 10
 Q1_CORRETA = "B"
-Q1_PERGUNTA = ("\n\n 1 - Quantos tipos de vacinas existem?"
+Q1_PERGUNTA = ("\n1 - Quantos tipos de vacinas existem?"
                "\n\n A) 1 "
                "\n\n B) 2 "
                "\n\n C) 5 "
                "\n\n D) 10 "
                "\n\n E) Inúmeras")
-Q1_EXPLICACAO = ("\n Explicação:"
+Q1_EXPLICACAO = ("\nExplicação:"
                  "\n Existem 2 tipos: vacinas produzidas a partir de"
                  "\n vírus atenuados e vacinas produzidas a partir de"
                  "\n vírus inativados, bactérias mortas ou até mesmo"
@@ -20,7 +20,7 @@ Q1_EXPLICACAO = ("\n Explicação:"
 
 Q2_VALOR = 5
 Q2_CORRETA = "C"
-Q2_PERGUNTA = ("2 - Para quais grupos a vacinação é importante?"
+Q2_PERGUNTA = ("\n2 - Para quais grupos a vacinação é importante?"
                "\n\n A) Apenas idosos, já que são mais suscetíveis a"
                "\n doenças como por exemplo sarampo."
                "\n\n B) Apenas adolescentes e crianças, já que estão em"
@@ -32,7 +32,7 @@ Q2_PERGUNTA = ("2 - Para quais grupos a vacinação é importante?"
                "\n\n E) Apenas adultos e idosos, já que pararam de fabricar"
                "\n células de defesa, assim precisando de uma ajuda"
                "\n externa.")
-Q2_EXPLICACAO = ("\n Explicação:"
+Q2_EXPLICACAO = ("\nExplicação:"
                  "\n Como uma doença imunoprevenível (ou seja, que pode ser"
                  "\n evitada de forma eficaz através de vacinas) precisa"
                  "\n infectar outros humanos para “sobreviver”, em um"
@@ -42,7 +42,7 @@ Q2_EXPLICACAO = ("\n Explicação:"
 
 Q3_VALOR = 5
 Q3_CORRETA = "C"
-Q3_PERGUNTA = ("3 - Vacinas e remédios possuem a mesma finalidade."
+Q3_PERGUNTA = ("\n3 - Vacinas e remédios possuem a mesma finalidade."
                "\n Essa afirmação está correta? Por quê?"
                "\n\n A) Sim. Vacinas e remédios são eficazes apenas após o"
                "\n paciente contrair a doença."
@@ -54,7 +54,7 @@ Q3_PERGUNTA = ("3 - Vacinas e remédios possuem a mesma finalidade."
                "\npara prevenir."
                "\n\n E) Não. Apesar de serem feitas da mesma forma, vacinas"
                "\n servem para prevenir e remédios para curar.")
-Q3_EXPLICACAO = ("\n Explicação:"
+Q3_EXPLICACAO = ("\nExplicação:"
                  "\n Remédios e vacinas possuem finalidades diferentes."
                  "\n Vacinas servem para prevenir que se contraia a"
                  "\n doença em questão, ou caso a contraia, apresente"
@@ -66,7 +66,7 @@ Q3_EXPLICACAO = ("\n Explicação:"
 
 Q4_VALOR = 10
 Q4_CORRETA = "D"
-Q4_PERGUNTA = ("4 - Quem criou a primeira vacina? Em qual século e para"
+Q4_PERGUNTA = ("\n4 - Quem criou a primeira vacina? Em qual século e para"
                "\n prevenir qual doença?"
                "\n\n A) Edward Johnson, no século 17, para prevenir a"
                "\n gripe comum."
@@ -78,7 +78,7 @@ Q4_PERGUNTA = ("4 - Quem criou a primeira vacina? Em qual século e para"
                "\n varíola."
                "\n\n E) Edward Johnson, no século 20, para prevenir a"
                "\n hepatite C.")
-Q4_EXPLICACAO = ("\n Explicação:"
+Q4_EXPLICACAO = ("\nExplicação:"
                  "\n Todas as doenças citadas, fora varíola, ainda não"
                  "\n possuem nenhuma vacina. Isso ocorre por conta da"
                  "\n complexidade de algumas dessas doenças, ou por se"
@@ -89,7 +89,7 @@ Q4_EXPLICACAO = ("\n Explicação:"
 
 Q5_VALOR = 10
 Q5_CORRETA = "A"
-Q5_PERGUNTA = ("5 - O que constitui uma vacina?"
+Q5_PERGUNTA = ("\n5 - O que constitui uma vacina?"
                "\n\n A) Vírus ou bactérias mortos ou atenuados, ou"
                "\n fragmentos desses agentes."
                "\n\n B) Anticorpos concentrados retirados de organismos"
@@ -102,7 +102,7 @@ Q5_PERGUNTA = ("5 - O que constitui uma vacina?"
                "\n\n E) Nutrientes selecionados para que o corpo se"
                "\n torne capaz de combater a doença, criando assim"
                "\n anticorpos.")
-Q5_EXPLICACAO = ("\n Explicação:"
+Q5_EXPLICACAO = ("\nExplicação:"
                  "\n Vacinas são constituídas por patógenos (Vírus ou"
                  "\n bactérias da doença em questão) desativados ou"
                  "\n atenuados, para que o corpo do indivíduo possa"
@@ -111,14 +111,14 @@ Q5_EXPLICACAO = ("\n Explicação:"
 
 Q6_VALOR = 20
 Q6_CORRETA = "D"
-Q6_PERGUNTA = ("6 - Segundo a Organização Mundial da Saúde, quantos óbitos"
+Q6_PERGUNTA = ("\n6 - Segundo a Organização Mundial da Saúde, quantos óbitos"
                "\n as vacinas evitam anualmente?"
                "\n\n A) 100 mil"
                "\n\n B) 50 mil"
                "\n\n C) 5 milhões"
                "\n\n D) 3 milhões"
                "\n\n E) 1 milhão")
-Q6_EXPLICACAO = ("\n Explicação:"
+Q6_EXPLICACAO = ("\nExplicação:"
                  "\n Hoje, as vacinas protegem a população contra mais"
                  "\n de 30 doenças e previnem cerca de 3 milhões de"
                  "\n mortes por ano. Vacinas ainda controlam epidemias"
@@ -129,7 +129,7 @@ Q6_EXPLICACAO = ("\n Explicação:"
 
 Q7_VALOR = 5
 Q7_CORRETA = "C"
-Q7_PERGUNTA = ("7 - Todas as alternativas abaixo representam MITOS, exceto:"
+Q7_PERGUNTA = ("\n7 - Todas as alternativas abaixo representam MITOS, exceto:"
                "\n\n A) As vacinas contêm mercúrio, e por isso são"
                "\n perigosas."
                "\n\n B) Vacinas, geralmente, causam autismo."
@@ -138,7 +138,7 @@ Q7_PERGUNTA = ("7 - Todas as alternativas abaixo representam MITOS, exceto:"
                "\n\n D) Pessoas saudáveis não precisam tomar vacinas."
                "\n\n E) Se uma doença está erradicada em determinado país"
                "\n não há necessidade de sua população se vacinar.")
-Q7_EXPLICACAO_A = ("\n Explicação:"
+Q7_EXPLICACAO_A = ("\nExplicação:"
                    "\n O tiomersal é um composto orgânico, que contém"
                    "\n mercúrio, adicionado a algumas vacinas como"
                    "\n conservantes. É o conservante mais utilizado para"
@@ -155,7 +155,7 @@ Q7_EXPLICACAO_A = ("\n Explicação:"
                    "\n vacinas contraindicadas podemos citar a vacina"
                    "\n contra a varicela e a contra HPV.")
 
-Q7_EXPLICACAO_B = ("\n Explicação:"
+Q7_EXPLICACAO_B = ("\nExplicação:"
                    "\n Um estudo apresentado em 1998 levantou preocupações"
                    "\n sobre uma possível relação entre a vacina contra o"
                    "\n sarampo, a caxumba, a rubéola e o autismo. Tal"
@@ -176,7 +176,7 @@ Q7_EXPLICACAO_B = ("\n Explicação:"
                    "\n vacinas contraindicadas podemos citar a vacina"
                    "\n contra a varicela e a contra HPV.")
 
-Q7_EXPLICACAO_C = ("\n Explicação:"
+Q7_EXPLICACAO_C = ("\nExplicação:"
                    "\n As mulheres grávidas podem se vacinar contra"
                    "\n algumas doenças, entretanto, outras vacinas não"
                    "\n são recomendadas para gestantes. Dentre as vacinas"
@@ -186,7 +186,7 @@ Q7_EXPLICACAO_C = ("\n Explicação:"
                    "\n vacinas contraindicadas podemos citar a vacina"
                    "\n contra a varicela e a contra HPV.")
 
-Q7_EXPLICACAO_D = ("\n Explicação:"
+Q7_EXPLICACAO_D = ("\nExplicação:"
                    "\n Uma vida saudável é fundamental para a prevenção de"
                    "\n uma grande quantidade de doenças, porém, não"
                    "\n garante proteção efetiva contra todas elas. Isso"
@@ -203,7 +203,7 @@ Q7_EXPLICACAO_D = ("\n Explicação:"
                    "\n vacinas contraindicadas podemos citar a vacina"
                    "\n contra a varicela e a contra HPV.")
 
-Q7_EXPLICACAO_E = ("\n Explicação:"
+Q7_EXPLICACAO_E = ("\nExplicação:"
                    "\n Mesmo que uma doença seja considerada erradicada em"
                    "\n nosso país, a vacinação é fundamental, uma vez que"
                    "\n a doença pode ainda existir em outros lugares e"
@@ -222,7 +222,7 @@ Q7_EXPLICACAO_E = ("\n Explicação:"
 
 Q8_VALOR = 5
 Q8_CORRETA = "B"
-Q8_PERGUNTA = ("8 - Qual doença foi considerada erradicada através da"
+Q8_PERGUNTA = ("\n8 - Qual doença foi considerada erradicada através da"
                "\n vacinação? "
                "\n\n A) AIDS."
                "\n\n B) Sarampo."
@@ -230,7 +230,7 @@ Q8_PERGUNTA = ("8 - Qual doença foi considerada erradicada através da"
                "\n\n D) Febre amarela."
                "\n\n E) Amebíase.")
 
-Q8_EXPLICACAO = ("\n Explicação:"
+Q8_EXPLICACAO = ("\nExplicação:"
                  "\n Nenhuma das alternativas diferentes de “B” foram"
                  "\n consideradas erradicadas. Sarampo foi considerado"
                  "\n uma doença erradicada no Brasil em 2016, porém"
@@ -241,7 +241,7 @@ Q8_EXPLICACAO = ("\n Explicação:"
 
 Q9_VALOR = 20
 Q9_CORRETA = "B"
-Q9_PERGUNTA = ("9 - No Brasil, quais são as mais importantes entidades"
+Q9_PERGUNTA = ("\n9 - No Brasil, quais são as mais importantes entidades"
                "\n produtoras de vacinas?"
                "\n\n A) As entidades mais importantes são o Hospital"
                "\n Albert Sabin e a Fundação de Amparo à Pesquisa do"
@@ -260,7 +260,7 @@ Q9_PERGUNTA = ("9 - No Brasil, quais são as mais importantes entidades"
                "\n importantes no Brasil. O órgão regulador responsável"
                "\n é a Agência Nacional de Telecomunicações.")
 
-Q9_EXPLICACAO = ("\n Explicação:"
+Q9_EXPLICACAO = ("\nExplicação:"
                  "\n O Instituto Butantan, de São Paulo, e a Fundação"
                  "\n Oswaldo Cruz, do Rio de Janeiro, são os principais"
                  "\n produtores de imunobiológicos do Brasil. Além de"
@@ -271,22 +271,22 @@ Q9_EXPLICACAO = ("\n Explicação:"
 
 Q10_VALOR = 10
 Q10_CORRETA = "B"
-Q10_PERGUNTA = ("10 - As vacinas são produtos biológicos que protegem os"
+Q10_PERGUNTA = ("\n10 - As vacinas são produtos biológicos que protegem os"
                 "\n indivíduos contra diversas doenças, conhecidas como"
                 "\n imunopreveníveis. As doenças que são prevenidas por"
                 "\n meio de vacinas são:"
-                "\n A) Hepatite A, tétano e hantavirose."
-                "\n B) Tétano, hepatite B e raiva."
-                "\n C) Tétano, malária e raiva."
-                "\n D) AIDS, tétano e raiva."
-                "\n E) Gripe aviária, herpes zóster e diabetes.")
+                "\n\n A) Hepatite A, tétano e hantavirose."
+                "\n\n B) Tétano, hepatite B e raiva."
+                "\n\n C) Tétano, malária e raiva."
+                "\n\n D) AIDS, tétano e raiva."
+                "\n\n E) Gripe aviária, herpes zóster e diabetes.")
 
-Q10_EXPLICACAO = ("\n Explicação:"
+Q10_EXPLICACAO = ("\nExplicação:"
                   "\n Não existe vacina para hantavirose, diabetes"
                   "\n malária, AIDS ou Gripe aviária.")
 
 VACINACAO_IMPORTANTE_METADE_PONTUACAO = "\n Vacinação é um assunto muito importante." \
-                                        "\nMesmo que tenha atingido quase metade da" \
+                                        "\n Mesmo que tenha atingido quase metade da" \
                                         "\n pontuação máxima, ainda há muito para" \
                                         "\n aprender. É importante que pesquise mais" \
                                         "\n sobre o assunto!"
