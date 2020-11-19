@@ -17,6 +17,6 @@ def menuInicial():
 
 menuInicial()
 
-Questao.explicaQuestoes()
+Questao.explicaQuestao()
 
 Questao.mostraPontuacaoFinal()

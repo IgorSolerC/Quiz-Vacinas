@@ -46,7 +46,7 @@ def criaQuestao(valor, correta, pergunta, explicacaoA, explicacaoB="0", explicac
     numQuestao += 1
 
 
-def explicaQuestoes():
+def explicaQuestao():
     criaQuestao(TextoQuestoes.Q1_VALOR, TextoQuestoes.Q1_CORRETA,
                 TextoQuestoes.Q1_PERGUNTA, TextoQuestoes.Q1_EXPLICACAO)
     criaQuestao(TextoQuestoes.Q1_VALOR, TextoQuestoes.Q2_CORRETA,
